@@ -4,9 +4,9 @@ public class Addition {
 int x;
 int y;
 void add() {
-	int sum;
-	sum=x+y;
-	System.out.println(sum);
+	int add;
+	add=x+y;
+	System.out.println(add);
 }
 
 int add(int a,int b,int c) {
