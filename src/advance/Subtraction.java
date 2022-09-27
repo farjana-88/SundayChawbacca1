@@ -3,8 +3,8 @@ package advance;
 public class Subtraction extends Addition{
 
 	
-	void sub (int a, int b) {
-		int s = a-b;
+	void sub (int a, int c) {
+		int s = a-c;
 		System.out.println(s);
 		
 	}
